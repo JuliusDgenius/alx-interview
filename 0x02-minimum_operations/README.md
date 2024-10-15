@@ -40,3 +40,7 @@ General
 - Your code should be documented
 - Your code should use the PEP 8 style (version 1.7.x)
 - All your files must be executable
+
+## Files
+
+- [0-minoperations.py](0-minoperations.py)
