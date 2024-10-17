@@ -32,5 +32,5 @@ def minOperations(n: int) -> int:
         while n % factor == 0:
             operations += factor
             n //= factor
-            factor += 1
+        factor += 1
     return operations
