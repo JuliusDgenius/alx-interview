@@ -23,7 +23,7 @@ Number of operations: 6
 
 def minOperations(n: int) -> int:
     """Returns minimum number of operations"""
-    if not n:
+    if n <= 0:
         return 0
     operations = 0
     factor = 2
