@@ -3,6 +3,7 @@
 Island perimeter problem.
 """
 
+
 def island_perimeter(grid):
     """
     Calculate the perimeter of the island described in grid
@@ -37,4 +38,3 @@ def island_perimeter(grid):
                     perimeter += 1
 
     return perimeter
-
